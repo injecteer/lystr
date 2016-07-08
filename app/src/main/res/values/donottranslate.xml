@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="units">
+        <item>gram</item>
+        <item>kilogram</item>
+        <item>piece</item>
+        <item>meter</item>
+    </string-array>
+    <string name="search_url">https://www.google.com/search?q=%2$s&amp;as_st=y&amp;hl=%1$s&amp;num=2&amp;tbas=0&amp;noj=1&amp;tbs=iar:s,imgo:1,isz:m,ic:color&amp;tbm=isch&amp;source=lnt&amp;sa=X&amp;dpr=1&amp;biw=1350&amp;bih=620</string>
+</resources>

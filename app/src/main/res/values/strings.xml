@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lystr</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading…</string>
+    <string name="new_item">New item</string>
+
+    <string name="unit_gram">%1$.0f gr</string>
+    <string name="unit_kilogram">%1$.1 kg</string>
+    <string name="unit_piece">%1$.0f pcs</string>
+    <string name="unit_meter">%1$.1f m</string>
+    <string name="amount_or_qty">amount or qty</string>
+    <string name="save">save</string>
+</resources>

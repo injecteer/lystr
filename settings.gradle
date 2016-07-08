@@ -1,0 +1,2 @@
+include ':app', ':android-commons'
+project( ':android-commons' ).projectDir = new File( settingsDir, '../android-commons/lib' )
